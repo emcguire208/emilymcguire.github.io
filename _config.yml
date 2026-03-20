@@ -1,4 +1,19 @@
-title: My Personal Website
-email: your_email@example.com
-description: A personal website built with Jekyll
-url: https://emilymcguire.github.io
+# Modern Sleek Jekyll Theme Configuration
+
+theme: minima
+
+# Optional settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourdomain.com" # the base hostname & protocol for your site
+
+# Customize the site title and description
+title: "Your Site Title"
+description: "A sleek and modern blog powered by Jekyll."
+
+# Social media links
+social:
+  twitter: "your_twitter_handle"
+  github: "your_github_handle"
+  linkedin: "your_linkedin_profile"
+
+# Additional settings can be added here
